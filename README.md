@@ -1,16 +1,14 @@
-### Hi there 👋
+### Technologies
 
-<!--
-**poulioskos/poulioskos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- python (numpy, pandas, scikit-learn, nltk, jupyter, streamlit, spacy)
+- docker
+- aws
+- SQL
 
-Here are some ideas to get you started:
+### Experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### Data scientist at SAP (01.2022-present)
+
+Researcher data scientist developing proof-of-concept services and python-based, data-
+driven prototypes for customer evaluation.
+
