@@ -1,1 +1,1 @@
-data scientist | researcher | python developer
+data scientist | python developer | researcher
